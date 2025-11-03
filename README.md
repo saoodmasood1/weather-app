@@ -49,33 +49,6 @@ Copy code
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/MrG07/virtualinternshipwithhindukushsofttechnologies.git
-
-### 2. Navigate to the project folder
-bash
-Copy code
-cd "Day 40/weather-app"
-
-### 3. Install dependencies
-bash
-Copy code
-npm install
-
-### 4. Run the app locally
-bash
-Copy code
-npm start
-
-### 5. Deploy to GitHub Pages
-bash
-Copy code
-npm run deploy
-
-
-### 👨‍💻 Author
+👨‍💻 Author
 Saood Masood
 Intern at HindukushSoft Technologies
